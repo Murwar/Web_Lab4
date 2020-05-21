@@ -1,5 +1,5 @@
 export default function getMyInfo() {
-    return `<div style="text-align: center; padding-top: 3rem"><span style="font-weight: bold;font-size: 1.1rem; text-align: center">name: </span>
+    return `<div style="text-align: center; padding-top: 2rem"><span style="font-weight: bold;font-size: 1.1rem; text-align: center">name: </span>
         <span>Vorobeva Maria<br></span>
         <span style="font-weight: bold;font-size: 1.1rem">group: </span>
         <span>M3308<br></span>
