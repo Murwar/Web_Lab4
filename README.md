@@ -1,5 +1,10 @@
 # Web_Lab4
 
+* npm init
+* npm i -g webpack webpack-cli
+* npx webpack --config webpack.config.js
+
+
 ### Лабораторная работа 4
 #### Single page application
 
